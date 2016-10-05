@@ -1,0 +1,66 @@
+.white-background {
+  background: white;
+  /*padding-top: 20px;*/
+  padding-bottom: none;
+  /*width: 100%;*/
+  z-index: 10;
+  }
+
+.top-menu {
+  padding: 10px;
+}
+
+#header {
+  box-shadow: #cccccc 0 4px 4px;
+  z-index: 11;
+}
+
+
+.grey-background {
+  background-color: #f2f0f1;
+  /* #e6e6e6*/
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: 200px;
+}
+
+.black-background {
+  background-color: black;
+}
+
+.banner {
+
+}
+
+body {
+  background: url("body-bg.png");
+}
+
+
+right.aligned.ui.container {
+  margin-bottom: 20px;
+}
+
+#msf-banner {
+  margin-bottom: 0px;
+}
+
+#header-menu {
+  margin-top: 0px;
+}
+
+#body {
+  margin: 50px;
+}
+
+#date-font {
+  font-size: xx-small;
+}
+
+#slider-body-font {
+  font-size: large;
+}
+
+#slider-font {
+  font-size: small;
+}
